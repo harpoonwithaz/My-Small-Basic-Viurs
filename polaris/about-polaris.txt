@@ -3,3 +3,5 @@ Welcome to polaris virus
 This virus does not affect the computer in anyway and is just a scary trojan
 
 This virus may also get flagged by windows defender or an anti virus lol so just run it from small basic if it doesnt work.
+
+To run this viurs double click on the executable file. If it doesnt work install small basic and open the .sb file and run it from there
